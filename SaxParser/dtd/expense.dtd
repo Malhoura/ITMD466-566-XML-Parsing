@@ -1,0 +1,16 @@
+<!DOCTYPE expense
+[
+<!ELEMENT expenses (expense+)>
+<!ELEMENT expense (expenseID,employeeID,expenseType,expenseCategory, purposeOfExpense, amount, description, datePurchased, dateSubmitted, advanceAmount, paymentMehtod)>
+<!ELEMENT expenseID (#PCDATA)>
+<!ELEMENT employeeID (#PCDATA)>
+<!ELEMENT expenseType (#PCDATA)>
+<!ELEMENT expenseCategory (#PCDATA)>
+<!ELEMENT purposeOfExpense (#PCDATA)>
+<!ELEMENT amount (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT datePurchased (#PCDATA)>
+<!ELEMENT dateSubmitted (#PCDATA)>
+<!ELEMENT advanceAmount (#PCDATA)>
+<!ELEMENT paymentMehtod (#PCDATA)>
+]>

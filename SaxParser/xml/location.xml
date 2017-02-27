@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE location SYSTEM "location.dtd">
+
+<locations> 
+
+<location id="001">
+	<locationName>location-1</locationName>
+	<locationCode>Chi</locationCode>
+	<customerID>1</customerID>
+	<adressStreet1>3128 south wells</adressStreet1>
+	<adressStreet2>3R</adressStreet2>
+	<city>Chicago</city>
+	<state>IL</state>
+	<postalCode>60616</postalCode>
+	<region>Cook</region>
+	<locationContactName>Zing</locationContactName>
+	<locationPhone>3333333333</locationPhone>
+	<locationFaxNumber></locationFaxNumber>
+	<locationEmail> loc@gmail.com</locationEmail>
+</location>
+
+</locations>

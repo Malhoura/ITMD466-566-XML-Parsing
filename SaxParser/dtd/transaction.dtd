@@ -1,0 +1,18 @@
+<!DOCTYPE transaction
+[
+<!ELEMENT transactions (transaction+)>
+<!ELEMENT transaction (transactionID,orderID,priceID,transactionDate, transactionDescription, transactionAmount, VIN, truckNo, employeeID, discount, quantity, unitPrice, driverPrice)>
+<!ELEMENT transactionID (#PCDATA)>
+<!ELEMENT orderID (#PCDATA)>
+<!ELEMENT priceID (#PCDATA)>
+<!ELEMENT transactionDate (#PCDATA)>
+<!ELEMENT transactionDescription (#PCDATA)>
+<!ELEMENT transactionAmount (#PCDATA)>
+<!ELEMENT VIN (#PCDATA)>
+<!ELEMENT truckNo (#PCDATA)>
+<!ELEMENT employeeID (#PCDATA)>
+<!ELEMENT discount (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT unitPrice (#PCDATA)>
+<!ELEMENT driverPrice (#PCDATA)>
+]>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+
+<user id="1">
+	<firstname>Mazen</firstname>
+	<lastname>Al hourani</lastname>
+</user>
+<user id="2">
+	<firstname>Greg</firstname>
+	<lastname>Miro</lastname>
+</user>
+<user id="3">
+	<firstname>Tony</firstname>
+	<lastname>Law</lastname>
+</user>
+<user id="4">
+	<firstname>Farah</firstname>
+	<lastname>Abdul</lastname>
+</user>
+
+</users>

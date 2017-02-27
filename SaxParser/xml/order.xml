@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<orders> 
+
+<order id="111"> 
+<orderDate>02031992</orderDate>
+<customerID>1</customerID>
+<employeeID>1</employeeID>
+<truckID>1</truckID>
+<isSpecial>yes</isSpecial>
+<PONumber>123456</PONumber>
+<orderTotalAmount>266</orderTotalAmount>
+</order>
+
+<order id="112"> 
+<orderDate>02031993</orderDate>
+<customerID>2</customerID>
+<employeeID>2</employeeID>
+<truckID>2</truckID>
+<isSpecial>no</isSpecial>
+<PONumber>123489</PONumber>
+<orderTotalAmount>255</orderTotalAmount>
+</order>
+
+</orders>

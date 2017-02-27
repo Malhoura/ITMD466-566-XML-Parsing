@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE transaction SYSTEM "transaction.dtd">
+
+<transactions> 
+<transaction> 
+	<transactionID> </transactionID>
+	<orderID> </orderID>
+	<priceID> </priceID>
+	<transactionDate> </transactionDate>
+	<transactionDescription> </transactionDescription>
+	<transactionAmount> </transactionAmount>
+	<VIN> </VIN>
+	<truckNo> </truckNo>
+	<employeeID> </employeeID>
+	<discount> </discount>
+	<quantity> </quantity>
+	<unitPrice> </unitPrice>
+	<driverPrice> </driverPrice>
+</transaction>
+</transactions>

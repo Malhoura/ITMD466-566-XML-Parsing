@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE invoice SYSTEM "invoice.dtd">
+
+<invoices> 
+
+<invoice id="001">
+	<orderID>1</orderID>
+</invoice>
+<invoice id="002">
+	<orderID>2</orderID>
+</invoice>
+
+</invoices>

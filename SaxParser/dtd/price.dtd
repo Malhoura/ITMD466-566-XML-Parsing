@@ -1,0 +1,13 @@
+<!DOCTYPE price
+[
+<!ELEMENT prices (price+)>
+<!ELEMENT price (priceID,locationID,locationIDFrom,locationIDTo, price, locationCodeFrom, locationCodeTo, customerID)>
+<!ELEMENT priceID (#PCDATA)>
+<!ELEMENT locationID (#PCDATA)>
+<!ELEMENT locationIDFrom (#PCDATA)>
+<!ELEMENT locationIDTo (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT locationCodeFrom (#PCDATA)>
+<!ELEMENT locationCodeTo (#PCDATA)>
+<!ELEMENT customerID (#PCDATA)>
+]>

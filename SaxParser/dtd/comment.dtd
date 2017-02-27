@@ -1,0 +1,12 @@
+<!DOCTYPE comment
+[
+<!ELEMENT comments (comment+)>
+<!ELEMENT comment (commentID,commentDateTime,comment,customerID, locationID, transactionID, truckID)>
+<!ELEMENT commentID (#PCDATA)>
+<!ELEMENT commentDateTime (#PCDATA)>
+<!ELEMENT comment (#PCDATA)>
+<!ELEMENT customerID (#PCDATA)>
+<!ELEMENT locationID (#PCDATA)>
+<!ELEMENT transactionID (#PCDATA)>
+<!ELEMENT truckID (#PCDATA)>
+]>

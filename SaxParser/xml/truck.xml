@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE truck SYSTEM "truck.dtd">
+<trucks> 
+<truck> 
+	<VIN> </VIN>
+	<truckNo> </truckNo>
+	<makeYear> </makeYear>
+	<model> </model>
+	<licensePlateNo> </licensePlateNo>
+	<employeeID> </employeeID>
+	<color> </color>
+	<cost> </cost>
+</truck>
+</trucks>
+

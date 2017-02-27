@@ -1,0 +1,13 @@
+<!DOCTYPE truck
+[
+<!ELEMENT trucks (truck+)>
+<!ELEMENT truck (VIN,truckNo,makeYear,model, licensePlateNo, employeeID, color, cost)>
+<!ELEMENT VIN (#PCDATA)>
+<!ELEMENT truckNo (#PCDATA)>
+<!ELEMENT makeYear (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT licensePlateNo (#PCDATA)>
+<!ELEMENT employeeID (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT cost (#PCDATA)>
+]>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE payment SYSTEM "payment.dtd">
+
+<payments> 
+    
+<payment id="001">
+	<orderID>1</orderID>
+	<paymentMethodID>1</paymentMethodID>
+	<paymentAmount>350</paymentAmount>
+	<paymentDate>12122015</paymentDate>
+	<checkNumber></checkNumber>
+	<creditCard>Chase</creditCard>
+	<creditCardNumber>1234123412341234</creditCardNumber>
+	<cardholderName>Mazen</cardholderName>
+	<creditCardExpDate>12122020</creditCardExpDate>
+	<creditCardAuthNumber>312</creditCardAuthNumber>
+</payment>
+
+<payment>
+	<orderID>2</orderID>
+	<paymentMethodID>2</paymentMethodID>
+	<paymentAmount>400</paymentAmount>
+	<paymentDate> </paymentDate>
+	<checkNumber> </checkNumber>
+	<creditCard> </creditCard>
+	<creditCardNumber > </creditCardNumber>
+	<cardholderName> </cardholderName>
+	<creditCardExpDate> </creditCardExpDate>
+	<creditCardAuthNumber> </creditCardAuthNumber>
+</payment>
+
+</payments>

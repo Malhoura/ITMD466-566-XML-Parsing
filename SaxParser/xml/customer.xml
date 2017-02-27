@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE customer SYSTEM "customer.dtd">
+
+<customers> 
+
+<customer id="001">
+	<state>IL</state>
+	<customerName>Mazen-1</customerName>
+	<businessName>Business-1</businessName>
+	<billingAddress>3128 south wells</billingAddress>
+	<city>Chicago</city>
+	<postalCode>60616</postalCode>
+	<country>USA</country>
+	<phoneNumber>3128885475</phoneNumber>
+	<otherNumber></otherNumber>
+	<faxNumber></faxNumber>
+	<emailAddress>malhoura@hawk.iit.edu</emailAddress>
+	<customerType>type-1</customerType>
+	<companyName>IIT</companyName>
+	<contactName>Zing</contactName>
+	<alternateContactName></alternateContactName>
+	<date>03251992</date>
+</customer>
+
+<customer id="002">
+	<state>NY</state>
+	<customerName>Mazen-2</customerName>
+	<businessName>Business-2</businessName>
+	<billingAddress>3241 south wabash</billingAddress>
+	<city>Chicago</city>
+	<postalCode>60161</postalCode>
+	<country>USA</country>
+	<phoneNumber>3123123333</phoneNumber>
+	<otherNumber></otherNumber>
+	<faxNumber></faxNumber>
+	<emailAddress>mazen.alhoura@gmail.com</emailAddress>
+	<customerType>type-2</customerType>
+	<companyName>ITT</companyName>
+	<contactName>Zingos</contactName>
+	<alternateContactName></alternateContactName>
+	<date>05151992</date>
+</customer>
+
+</customers>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE expense SYSTEM "expense.dtd">
+
+<expenses> 
+
+<expense id="001"> 
+	<employeeID>1</employeeID>
+	<truckID>1</truckID>
+	<expenseType>office</expenseType>
+	<expenseCategory>office</expenseCategory>
+	<purposeOfExpense></purposeOfExpense>
+	<amount>500</amount>
+	<description>description-1</description>
+	<datePurchased> </datePurchased>
+	<dateSubmitted> </dateSubmitted>
+	<advanceAmount> </advanceAmount>
+	<paymentMehtod> </paymentMehtod>
+</expense>
+
+<expense id="002"> 
+	<employeeID>2</employeeID>
+	<truckID>2</truckID>
+	<expenseType>gas</expenseType>
+	<expenseCategory>gas</expenseCategory>
+	<purposeOfExpense> </purposeOfExpense>
+	<amount>600</amount>
+	<description>description-2</description>
+	<datePurchased> </datePurchased>
+	<dateSubmitted> </dateSubmitted>
+	<advanceAmount> </advanceAmount>
+	<paymentMehtod> </paymentMehtod>
+</expense>
+
+</expenses>

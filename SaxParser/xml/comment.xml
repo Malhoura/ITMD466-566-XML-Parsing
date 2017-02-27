@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE comment SYSTEM "comment.dtd">
+
+<comments>
+
+<comment id="001">
+	<commentDateTime>02031992</commentDateTime>
+	<comment>comment-1</comment>
+	<customerID>1</customerID>
+	<locationID>1</locationID>
+	<transactionID>1</transactionID>
+	<truckID>1</truckID>
+</comment>
+
+<comment id="002">
+	<commentDateTime>03051992</commentDateTime>
+	<comment>comment-2</comment>
+	<customerID>2</customerID>
+	<locationID>2</locationID>
+	<transactionID>2</transactionID>
+	<truckID>2</truckID>
+</comment>
+
+</comments>

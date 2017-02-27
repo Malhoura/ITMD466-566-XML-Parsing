@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE price SYSTEM "price.dtd">
+
+<prices>
+    
+<price>
+	<priceID> </priceID>
+	<locationID> </locationID>
+	<locationIDFrom> </locationIDFrom>
+	<locationIDTo> </locationIDTo>
+	<price> </price>
+	<locationCodeFrom> </locationCodeFrom>
+	<locationCodeTo> </locationCodeTo>
+	<customerID> </customerID>
+</price>
+
+<price>
+	<priceID> </priceID>
+	<locationID> </locationID>
+	<locationIDFrom> </locationIDFrom>
+	<locationIDTo> </locationIDTo>
+	<price> </price>
+	<locationCodeFrom> </locationCodeFrom>
+	<locationCodeTo> </locationCodeTo>
+	<customerID> </customerID>
+</price>
+
+</prices>

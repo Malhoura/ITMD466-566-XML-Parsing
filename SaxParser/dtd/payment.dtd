@@ -1,0 +1,16 @@
+<!DOCTYPE payment
+[
+<!ELEMENT payments (payment+)>
+<!ELEMENT payment (paymentID,orderID,paymentMethodID,paymentAmount, paymentDate, checkNumber, creditCard, creditCardNumber, cardholderName, creditCardExpDate, creditCardAuthNumber)>
+<!ELEMENT paymentID (#PCDATA)>
+<!ELEMENT orderID (#PCDATA)>
+<!ELEMENT paymentMethodID (#PCDATA)>
+<!ELEMENT paymentAmount (#PCDATA)>
+<!ELEMENT paymentDate (#PCDATA)>
+<!ELEMENT checkNumber (#PCDATA)>
+<!ELEMENT creditCard (#PCDATA)>
+<!ELEMENT creditCardNumber (#PCDATA)>
+<!ELEMENT cardholderName (#PCDATA)>
+<!ELEMENT creditCardExpDate (#PCDATA)>
+<!ELEMENT creditCardAuthNumber (#PCDATA)>
+]>

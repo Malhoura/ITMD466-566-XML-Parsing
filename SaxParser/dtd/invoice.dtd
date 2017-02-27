@@ -1,0 +1,7 @@
+<!DOCTYPE invoice
+[
+<!ELEMENT invoices (invoice+)>
+<!ELEMENT invoice (invoiceID,orderID)>
+<!ELEMENT invoiceID (#PCDATA)>
+<!ELEMENT orderID (#PCDATA)>
+]>

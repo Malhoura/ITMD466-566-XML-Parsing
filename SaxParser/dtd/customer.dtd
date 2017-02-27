@@ -1,0 +1,23 @@
+<!DOCTYPE customer
+[
+<!ELEMENT customers (customer+)>
+<!ELEMENT customer (customerID,state,customerName,businessName, billingAddress, city, state, postalCode, country, phoneNumber, otherNumber, faxNumber, emailAddress, customerType, companyName, contactName, alternateContactName, date)>
+<!ELEMENT customerID (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT customerName (#PCDATA)>
+<!ELEMENT businessName (#PCDATA)>
+<!ELEMENT billingAddress (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT postalCode (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT phoneNumber (#PCDATA)>
+<!ELEMENT otherNumber (#PCDATA)>
+<!ELEMENT faxNumber (#PCDATA)>
+<!ELEMENT emailAddress (#PCDATA)>
+<!ELEMENT customerType (#PCDATA)>
+<!ELEMENT companyName (#PCDATA)>
+<!ELEMENT contactName (#PCDATA)>
+<!ELEMENT alternateContactName (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+]>

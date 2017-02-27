@@ -1,0 +1,23 @@
+<!DOCTYPE employee
+[
+<!ELEMENT employees (employee+)>
+<!ELEMENT employee (employeeID,firstName,lastName,email, extension, homePhone, cellPhone, jobTitle, SSN, dirverLicenseNo, address, city, state, postalCode, birthDate, dateHired, salary, notes)>
+<!ELEMENT employeeID (#PCDATA)>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT extension (#PCDATA)>
+<!ELEMENT homePhone (#PCDATA)>
+<!ELEMENT cellPhone (#PCDATA)>
+<!ELEMENT jobTitle (#PCDATA)>
+<!ELEMENT SSN (#PCDATA)>
+<!ELEMENT dirverLicenseNo (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT postalCode (#PCDATA)>
+<!ELEMENT birthDate (#PCDATA)>
+<!ELEMENT dateHired (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>
+]>

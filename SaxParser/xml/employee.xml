@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE employee SYSTEM "employee.dtd">
+
+<employees> 
+
+<employee id="001"> 
+	<firstName>Mazen</firstName>
+	<lastName>alhourani</lastName>
+	<email>malhoura@hawk.iit.edu</email>
+	<extension>312</extension>
+	<homePhone></homePhone>
+	<cellPhone>3128885475</cellPhone>
+	<jobTitle>Developer</jobTitle>
+	<SSN>12345667</SSN>
+	<driverLicenseNo>A0970982435</driverLicenseNo>
+	<address>3128 south wells</address>
+	<city>Chicago</city>
+	<state>IL</state>
+	<postalCode>60616</postalCode>
+	<birthDate>03251994</birthDate>
+	<dateHired>10102010</dateHired>
+	<salary>27</salary>
+	<notes>note-1</notes>
+</employee>
+
+<employee id="002"> 
+	<firstName>Greg</firstName>
+	<lastName>Miro</lastName>
+	<email>gmiro@hawk.iit.ed</email>
+	<extension>312</extension>
+	<homePhone></homePhone>
+	<cellPhone>2345559867</cellPhone>
+	<jobTitle>DevOps</jobTitle>
+	<SSN>444444444</SSN>
+	<driverLicenseNo>A87608273405</driverLicenseNo>
+	<address>3333 south wabash</address>
+	<city>Chicago</city>
+	<state>IL</state>
+	<postalCode>60616</postalCode>
+	<birthDate>01011995</birthDate>
+	<dateHired>11112011</dateHired>
+	<salary>30</salary>
+	<notes>note-2</notes>
+</employee>
+
+</employees>

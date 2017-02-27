@@ -1,0 +1,13 @@
+<!DOCTYPE order
+[
+<!ELEMENT orders (order+)>
+<!ELEMENT order (orderID,orderDate,customerID,employeeID, truckID, isSpecial, PONumber, orderTotalAmount)>
+<!ELEMENT orderID (#PCDATA)>
+<!ELEMENT orderDate (#PCDATA)>
+<!ELEMENT customerID (#PCDATA)>
+<!ELEMENT employeeID (#PCDATA)>
+<!ELEMENT truckID (#PCDATA)>
+<!ELEMENT isSpecial (#PCDATA)>
+<!ELEMENT PONumber (#PCDATA)>
+<!ELEMENT orderTotalAmount (#PCDATA)>
+]>
